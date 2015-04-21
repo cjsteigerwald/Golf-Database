@@ -3,7 +3,7 @@ A GUI implementation of a Golf Database
 Edmonds Community College CS 142
 Completed 5/15/2013
 
-<b>Program is in dist file: Golf-Database.jar</b>
+<b>Project file located: <a href="https://github.com/cjsteigerwald/Golf-Database/blob/master/Golf%20Database/dist/Golf_Database.jar">Here</a></b>
 
 <strong><bold>Problem</strong><bold><br><br>
 <p>A golf coach has asked for a quick and easy program to keep track of
